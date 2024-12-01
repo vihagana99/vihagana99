@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayuru Vihagana</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vihagana99&label=Profile%20views&color=0e75b6&style=flat" alt="vihagana99" /> </p>
 
-- 🌱 I’m currently learning **react, node.js, Fulter**
+- 🌱 I’m currently learning **Flutter, React Native**
 
 - 🤝I’m an Undergraduate at **South Eastern university of Sri Lanka**
 
