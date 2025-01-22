@@ -1,11 +1,24 @@
-<h1 align="center">Hi 👋, I'm Sayuru Vihagana</h1>
+<!-- Center the content -->
+<h1 align="center">
+  <!-- Animated wave emoji -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <strong>Hi, I'm Sayuru Vihagana 👨‍💻</strong>
+</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vihagana99&label=Profile%20views&color=0e75b6&style=flat" alt="vihagana99" /> </p>
 
-- 🌱 I’m currently learning **Flutter, React Native**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&color=F70000&center=true&width=600&lines=Welcome+to+my+GitHub!;I+am+a+Developer+and+Tech+Enthusiast;Building+Win+Form+App+and+Mobile+Apps." />
+</p>
 
-- 🤝I’m an Undergraduate at **South Eastern university of Sri Lanka**
 
-- 📫 How to reach me **sayuruvihagana@2gmail.com**
+
+### 🛠️ **About Me**
+- 🎓 Undergraduate student at **South East University of Sri Lanka**, studying **ICT**.
+- 💻 Passionate about **AI, Mobile Development, WebApp Development and Embedded Systems**.
+- 🌱 Currently learning **Flutter, Firebase, React Js, Node.js**.
+- 🐦 Researching **AI-based Sri Lankan endemic bird identification With Mobile App**.
+- 💡 Always eager to solve problems and learn new technologies.
 
 
 
@@ -17,4 +30,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihagana99&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="vihagana99's Top Languages" />
 </p>
 
-
+<!-- Social Media Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/sayuru-vihagana-670512201/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/vihagana99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="mailto:your-sayuruvihagana2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
