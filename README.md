@@ -16,7 +16,7 @@
 ### 🛠️ **About Me**
 - 🎓 Undergraduate student at **South East University of Sri Lanka**, studying **ICT**.
 - 💻 Passionate about **AI, Mobile Development, WebApp Development and Embedded Systems**.
-- 🌱 Currently learning **Flutter, Firebase, React Js, Node.js**.
+- 🌱 Currently learning **Flutter, Node.js, Python**.
 - 🐦 Researching **AI-based Sri Lankan endemic bird identification With Mobile App**.
 - 💡 Always eager to solve problems and learn new technologies.
 
